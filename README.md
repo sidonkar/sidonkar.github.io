@@ -1,4 +1,4 @@
-![Onkar](https://vectr.com/tmp/arjd1hc97/b37JLumxkB.svg?width=300&height=300&select=b37JLumxkBpage0)
+![Onkar](https://vectr.com/tmp/arjd1hc97/b37JLumxkB.svg?width=234.5&height=66.5&select=fVD4UzPK&source=selection)
 ### Projects
 
 1. [Single Div Images](https://sidonkar.github.io/Single-Div-Images)
