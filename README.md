@@ -1,9 +1,9 @@
-#Please visit https://sidonkar.github.io/
+# Please visit https://sidonkar.github.io/
 
-###Projects
+### Projects
 
-1. [Link](url)
-2. List
+1. [Captain America](https://sidonkar.github.io/singleDiv)
+1. [Ruler](https://sidonkar.github.io/ruler)
 
 **Bold** and _Italic_ and `Code` text
 
