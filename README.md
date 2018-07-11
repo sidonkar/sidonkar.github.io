@@ -1,4 +1,4 @@
-![Onkar](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+![Onkar](https://vectr.com/tmp/arjd1hc97/b37JLumxkB.svg?width=300&height=300&select=b37JLumxkBpage0)
 ### Projects
 
 1. [Single Div Images](https://sidonkar.github.io/Single-Div-Images)
