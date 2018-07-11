@@ -1,5 +1,3 @@
-# Please visit https://sidonkar.github.io/
-
 ### Projects
 
 1. [Captain America](https://sidonkar.github.io/singleDiv)
