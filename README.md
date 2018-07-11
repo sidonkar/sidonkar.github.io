@@ -1,6 +1,5 @@
 ### Projects
 
-1. [Captain America](https://sidonkar.github.io/singleDiv)
+1. [Single Div Images](https://sidonkar.github.io/Single-Div-Images)
 1. [Ruler](https://sidonkar.github.io/ruler)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
